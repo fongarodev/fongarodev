@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/fongarodev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fongarodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fongarodev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fongarodev&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fongarodev&layout=compact&langs_count=7&theme=white"/>
 </div>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
